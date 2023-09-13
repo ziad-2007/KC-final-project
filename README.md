@@ -1,34 +1,33 @@
 
-ملاحظة: يجب تعبئة هذا الملف بمعلومات المشروع، يمكنك اختيار اللغة. تأكد من مسح اللغة الأخرى والتعليقات الجانبية 
 > ⬇️ تعبئة معلومات المشروع بالعربية  
 
 <div dir="rtl">
   
-### اسم الطالب
+### اسم الطالب: زياد مصطفى حلمي
 
 
-### اسم المشروع
+### اسم المشروع: القاتل الغامض
 
 
 # شرح الفكرة
-المشكلة والحلول المطروحة إن وجدت
 
 
-# الأعمال المستقبلية
+
+# الأعمال المستقبلية: اضافة مستويات و قضايا اكثر
 
 
 </div>
 
 > Fill out project information in English ⬇️
-### Student Name
+### Student Name: ziad mostafa helmy
 
 
-### Project Name
+### Project Name: the mysterious murderer
 
 # Idea
-Problem and solutions if found 
 
 
-# Future Work 
+
+# Future Work: adding more levels and cases
 
 
